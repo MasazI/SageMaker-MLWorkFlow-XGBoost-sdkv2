@@ -7,6 +7,7 @@ This is an implementation of Machine Learning Workflow using SageMaker ans StepF
 ## requirments
 - AWS accounts
 - ap-notrheast-1 (Tokyo) region
+- must need to execute on SageMaker Notebook Instance
 
 ## Description
 ### data preparing
