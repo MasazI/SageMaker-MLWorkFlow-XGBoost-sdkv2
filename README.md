@@ -1,6 +1,9 @@
 # SageMaker-MLWorkFlow-XGBoost-sdkv2
 This is an implementation of Machine Learning Workflow using SageMaker ans StepFunctions on AWS through churn detection with XGBoost.
 
+
+![MLWorkFlow](architecture.png)
+
 ## requirments
 - AWS accounts
 - ap-notrheast-1 (Tokyo) region
