@@ -28,5 +28,4 @@ if __name__ == "__main__":
     print(score)
     
     with open(output_path, 'w') as f:
-        f.write(score)
-        f.write('\n')
+        f.write(str(score))
